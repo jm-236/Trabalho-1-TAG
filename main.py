@@ -51,6 +51,10 @@ print("\n--- Subgrafo Aleatório Criado ---")
 print(f"Nós no subgrafo: {G_subgrafo.number_of_nodes()}")
 print(f"Arestas no subgrafo: {G_subgrafo.number_of_edges()}")
 
+# --- 3. Analise de comunidades
+
+
+
 
 # --- 3. Visualizar o Subgrafo ---
 print("\nGerando a visualização...")
